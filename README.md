@@ -1,4 +1,5 @@
-🎮 Connect 4 (Puissance 4) — MinMax vs Alpha-Beta
+🎮 PUISSANCE 4 — MinMax vs Alpha-Beta
+
 A Connect 4 game in Python with a Pygame interface, where you can play against a computer driven by **MinMax** or **Alpha-Beta pruning**, and compare both algorithms side by side on the same game.
 
 
@@ -99,8 +100,7 @@ The board contains **69 windows of 4 aligned cells**:
 - 24 diagonal
 
 For a position evaluated from the computer's point of view:
-PATTERN
-SCORE
+
 Window with 3 of my pieces + 1 empty (no opponent piece)    +5
 
 Window with 2 of my pieces + 2 empty                        +2
