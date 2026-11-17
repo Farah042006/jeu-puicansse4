@@ -99,7 +99,8 @@ The board contains **69 windows of 4 aligned cells**:
 - 24 diagonal
 
 For a position evaluated from the computer's point of view:
-
+PATTERN
+SCORE
 Window with 3 of my pieces + 1 empty (no opponent piece)    +5
 
 Window with 2 of my pieces + 2 empty                        +2
