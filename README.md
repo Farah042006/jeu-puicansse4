@@ -153,8 +153,9 @@ Heuristic that takes row parity and double threats into account.
 
 Computer vs Computer mode.
 
+ 📺 Démonstration vidéo
+Regardez une démonstration de l'exécution du programme ici : 👉 https://youtu.be/v8a_pLswpwI 
+
 👩‍💻 Author
-
  KEFFOUS Farah
-
 Computer Science Student | Artificial Intelligence
